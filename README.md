@@ -21,12 +21,12 @@ Features:
 How to start :
 
     
-    1.Clone Repository: Salin repositori ini ke dalam sistem lokal Anda.
-    
-    2.Instal Dependensi: Instal semua dependensi yang diperlukan sesuai petunjuk yang disediakan.
-    
-    3.Konfigurasi: Sesuaikan file konfigurasi sesuai dengan kebutuhan dan preferensi gereja Anda.
-    
-    4.Migrasi Database: Lakukan migrasi database dan inisialisasi data awal jika diperlukan.
-    
-    5.Jalankan Server: Jalankan server untuk mulai menggunakan sistem.
+ 1.Clone Repository: Copy this repository into your local system.
+
+2.Install Dependencies: Install all required dependencies as per the instructions provided.
+
+3.Configuration: Customize the configuration files according to your church's needs and preferences.
+
+4.Database Migration: Perform database migration and initialize initial data if necessary.
+
+5.Run Server: Run the server to start using the system
